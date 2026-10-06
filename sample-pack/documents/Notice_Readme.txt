@@ -1,0 +1,1 @@
+This is a text file, not a PDF. The application must reject this file with a clear error message.
